@@ -19,7 +19,7 @@ We think these reasons are enough to use AST.
 ```sh
 git clone https://github.com/TheSadError/AST
 cd AST
-pip install - r requirements.txt
+pip install -r requirements.txt
 python3 ast.py
 ```
 
