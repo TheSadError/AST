@@ -1,6 +1,6 @@
 # 1. Explanation Of Normal 2d Line Graph Code :
 
-First you need to import some libaries below :
+**First you need to import some libraries below : **
 ```py
 import matplotlib.pyplot as plt
 import re
@@ -11,8 +11,8 @@ import socket
 from bs4 import BeautifulSoup
 ```
 
-And Color Class :
-Its for make sentences colorfull.
+**And Color Class :**
+**Its for make sentences colorfull.**
 ```py
 class bcolors:
     OK = '\033[92m' 
@@ -21,7 +21,7 @@ class bcolors:
     RESET = '\033[0m'
 ```
 
-Menu Code for select operation number : 
+**Menu Code for select operation number : **
 ```py
 print("Please Select Operation : ")
 print(" ")
@@ -30,7 +30,7 @@ print(f"{bcolors.OK}[Q] Quit")
 n = input("-> ")
 ```
 
-Function To plot normal 2d line graph with matplotlib
+**Function To plot normal 2d line graph with matplotlib library : **
 ```py
 def normal():
     name = input(f"{bcolors.FAIL}Name Of Graph : ")
@@ -55,7 +55,7 @@ def normal():
     plt.show()
 ```
 
-And last one for run selected operation :
+**And last one for run selected operation :**
 ```py
 
 if n == '1':
