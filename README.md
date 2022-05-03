@@ -12,7 +12,7 @@ You can plot a graph using AST quickly and easily . AST supports 3 languages yet
 And the last one is : AST Is Azerbaijanian Tool.
 We think these reasons are enough to use AST.
 ```
-
+And please dont forget to star and fork our project after use it.
 # Installation
 
 ## Install in Linux & Mac (Debian/Arch)
@@ -33,7 +33,13 @@ python3 ast.py
 
 Press download zip. Then you will have zip folder. Extract it. Then open cmd. Cd the folder directory. After write **pip install - r requirements.txt**. You will requirements packets for run *AST* . After it finished final command is : **python ast.py** . There it is!
 
+### Contact
+```
+Join Discord Group : 
+Error's Discord    : err0r#4018
+Januie's Discord   : Jan20🇦🇿#6757
 
+```
 
 # Copright
 **© 2022 AST Coded by Error & Januie! Please dont copy our code and dont forget to put our names when you share it!**
