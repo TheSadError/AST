@@ -1,6 +1,5 @@
 bs4
 matplotlib
-matplotlib.pyplot
 requests
 os
 time
