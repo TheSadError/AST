@@ -14,7 +14,7 @@ We think these reasons are enough to use AST.
 ```
 And please dont forget to star and fork our project after use it.
 
-[Explanation](https://github.com/TheSadError/AST/blob/main/Explanation.md)
+You can find [Explanation](https://github.com/TheSadError/AST/blob/main/Explanation.md) of project. Because it is open source :>
 # Installation
 
 ## Install in Linux & Mac (Debian/Arch)
