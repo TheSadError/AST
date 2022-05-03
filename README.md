@@ -35,5 +35,5 @@ Press download zip. Then you will have zip folder. Extract it. Then open cmd. Cd
 
 
 
-
+# Copright
 **© 2022 AST Coded by Error & Januie! Please dont copy our code and dont forget to put our names when you share it!**
