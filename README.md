@@ -39,9 +39,7 @@ Join Discord Group :
 Error's Discord    : err0r#4018
 Januie's Discord   : Jan20🇦🇿#6757
 ```
-
-## Explanation
-[Explain](https://github.com/TheSadError/AST/blob/main/Explanation.md)
+[Explanation](https://github.com/TheSadError/AST/blob/main/Explanation.md)
 
 # Copright
 **© 2022 AST Coded by Error & Januie! Please dont copy our code and dont forget to put our names when you share it!**
