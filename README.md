@@ -33,13 +33,15 @@ python3 ast.py
 
 Press download zip. Then you will have zip folder. Extract it. Then open cmd. Cd the folder directory. After write **pip install - r requirements.txt**. You will requirements packets for run *AST* . After it finished final command is : **python ast.py** . There it is!
 
-### Contact
+## Contact
 ```
 Join Discord Group : 
 Error's Discord    : err0r#4018
 Januie's Discord   : Jan20🇦🇿#6757
-
 ```
+
+## Explanation
+[Explain](https://github.com/TheSadError/AST/blob/main/Explanation.md)
 
 # Copright
 **© 2022 AST Coded by Error & Januie! Please dont copy our code and dont forget to put our names when you share it!**
