@@ -13,7 +13,7 @@ And the last one is : AST Is Azerbaijanian Tool.
 We think these reasons are enough to use AST.
 ```
 
-# Install
+# Installation
 
 ## Install in Linux & Mac (Debian/Arch)
 ```sh
