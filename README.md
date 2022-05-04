@@ -13,7 +13,11 @@ And the last one is : AST Is Azerbaijanian Tool.
 We think these reasons are enough to use AST.
 ```
 And please dont forget to star and fork our project after use it.
-
+# Chart Types :
+```md
+[1] 2D Line Graph
+[2] Pie Graph
+```
 You can find [Explanation](https://github.com/TheSadError/AST/blob/main/Explanation.md) of project. Because it is open source :>
 # Installation
 
