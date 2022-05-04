@@ -3,7 +3,6 @@ import re
 import os
 import time
 from colorama import Fore,Back,Style
-import socket
 from bs4 import BeautifulSoup
 
 class bcolors:
@@ -15,6 +14,7 @@ class bcolors:
 print("Lütfen Aşağıdakilerden birisini seçiniz : ")
 print(" ")
 print(f"{bcolors.OK}[1] 2D Line Graf")
+print(f"{bcolors.OK}[2] Pie Graf")
 print(f"{bcolors.OK}[Q] Çıx")
 n = input("-> ")
 
@@ -40,9 +40,32 @@ def normal():
     plt.title(name)
     plt.show()
 
+def pie():
+    name = input(f"{bcolors.FAIL}Grafınızın Adı : ")
+    x = []
+    xn =  int(input(f"{bcolors.FAIL}X'ın içinde kaç tane eleman olacak : "))
+
+    print("X Datasi : ")
+    for i in range(0, xn):
+        j = int(input())
+        x.append(j)
+    print(f"{bcolors.OK}Pie chart graph datasi alindi...")
+    time.sleep(1)
+    print(f"{bcolors.OK}Şimdi ise grafik görünüm datasini girin (0 birleşik 1 ise ayrı demekdir. Ve ek bilgi : Grafik Görünüm datasi X datasi ile ayni sayida olmalidir.) : ")
+    e=[]
+    print(f"{bcolors.OK}E Datasi : ")
+    for i in range(0,xn):
+        j = int(input())
+        e.append(j)
+    plt.pie(x, explode = e)
+    plt.title(name)
+    plt.show()
+
 
 if n == '1':
     normal()
+elif n == '2':
+    pie()
 elif n == 'Q' or n == 'q':
     print(f"{bcolors.FAIL}AST yi kullandığınız için teşekkür ederiz...")
     print(f"{bcolors.FAIL}Programdan çıkılıyor...")
