@@ -1,4 +1,4 @@
-# AST
+# AST ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
 Azərbaycan Statistika Təşkilatı (Azerbaijan Statistics Team)
 
 You can plot a graph using AST quickly and easily . AST supports 3 languages yet. Azerbaijanian | Turkish | English . You may ask :           
