@@ -1,5 +1,5 @@
 # AST ![](https://visitor-badge.glitch.me/badge?page_id=TheSadError.TheSadError)
-Azərbaycan Statistika Təşkilatı (Azerbaijan Statistics Team)
+Data Science App
 
 You can plot a graph using AST quickly and easily . AST supports 3 languages yet. Azerbaijanian | Turkish | English . You may ask :           
 ```There is excel for graphs why we sould use AST?```  . It is so easy to answear. There is many reasons to use AST.
