@@ -9,9 +9,7 @@ class bcolors:
     WA = '\033[93m' 
     FAIL = '\033[91m' 
     RESET = '\033[0m'
-print(f"{bcolors.OK} AST yә Hoşgәldiniz! (Azәrbaycan İstatistika Teşkilatı) Aşağıda dilinizi seçә bilәrsiniz : ")
-print(f"{bcolors.OK} AST ye Hoşgeldiniz! (Azerbaycan İstatistika Teşkilatı) Aşağıda dilinizi seçe bilirsiniz : ")
-print(f"{bcolors.OK} Welcome to AST! (Azerbaijan Statistics Team) You can select your language below         : ")
+print(f"{bcolors.OK} Welcome to AST! (Data Science App) You can select your language below         : ")
 print(" ")
 
 print(f"{bcolors.OK} Azәrbaycanca : AZ")
