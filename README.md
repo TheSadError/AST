@@ -46,5 +46,13 @@ Error's Discord    : err0r#4018
 Januie's Discord   : Jan20🇦🇿#6757
 ```
 
+
+**Donation :**
+```
+TR05 0006 2000 0280 0009 0525 31
+Name : Teymur Ahmetzade
+USD Type
+```
+
 # Copright
 **© 2022 AST Coded by Error & Januie! Please dont copy our code and dont forget to put our names when you share it!**
